@@ -1,0 +1,124 @@
+{
+  "table": [
+    {
+      "id": "1",
+      "firstName": "Firuz",
+      "lastName": "Madaminov",
+      "fatherName": "Aleksandrovich",
+      "age": 30,
+      "gender": "male",
+      "email": "madaminovfiruz659@gmail.com",
+      "phoneNumber": "+992900299494"
+    },
+    {
+      "id": "c54e",
+      "firstName": "Chandler",
+      "lastName": "Grimes",
+      "fatherName": "Buckminster Wilkerson",
+      "gender": "male",
+      "email": "kobifas@mailinator.com",
+      "age": "28",
+      "phoneNumber": "900299494"
+    },
+    {
+      "id": "d52e",
+      "firstName": "Jenette",
+      "lastName": "Oliver",
+      "fatherName": "Bell Lloyd",
+      "gender": "female",
+      "email": "qokynonaf@mailinator.com",
+      "age": "25",
+      "phoneNumber": "960000000"
+    },
+    {
+      "id": "de77",
+      "firstName": "Sarah",
+      "lastName": "Gallegos",
+      "fatherName": "Jemima Lamb",
+      "gender": "male",
+      "email": "lyjo@mailinator.com",
+      "age": "75",
+      "phoneNumber": "470000000"
+    },
+    {
+      "id": "b0ba",
+      "firstName": "Karly",
+      "lastName": "Savage",
+      "fatherName": "Carolyn Cooley",
+      "gender": "female",
+      "email": "maduhu@mailinator.com",
+      "age": "4",
+      "phoneNumber": "521000000"
+    },
+    {
+      "id": "02e2",
+      "firstName": "Anthony",
+      "lastName": "Molina",
+      "fatherName": "Hilda Allen",
+      "gender": "male",
+      "email": "sizubihiko@mailinator.com",
+      "age": "39",
+      "phoneNumber": "864000000"
+    },
+    {
+      "id": "ab08",
+      "firstName": "Imani",
+      "lastName": "Cleveland",
+      "fatherName": "Yolanda Nielsen",
+      "gender": "female",
+      "email": "peciri@mailinator.com",
+      "age": "13",
+      "phoneNumber": "272000000"
+    },
+    {
+      "id": "da73",
+      "firstName": "Brent",
+      "lastName": "Kidd",
+      "fatherName": "Elaine Barnett",
+      "gender": "male",
+      "email": "buzokov@mailinator.com",
+      "age": "67",
+      "phoneNumber": "582000000"
+    },
+    {
+      "id": "2b9d",
+      "firstName": "Abbot",
+      "lastName": "Walton",
+      "fatherName": "Christen Skinner",
+      "gender": "male",
+      "email": "fyhekate@mailinator.com",
+      "age": "42",
+      "phoneNumber": "148000000"
+    },
+    {
+      "id": "fd3e",
+      "firstName": "Kylie",
+      "lastName": "Whitney",
+      "fatherName": "Jemima Singleton",
+      "gender": "female",
+      "email": "rililasih@mailinator.com",
+      "age": "10",
+      "phoneNumber": "269000000"
+    },
+    {
+      "id": "cd0f",
+      "firstName": "Dominique",
+      "lastName": "Yang",
+      "fatherName": "Heidi Sanchez",
+      "gender": "female",
+      "email": "cyxanejid@mailinator.com",
+      "age": "27",
+      "phoneNumber": "9830000000"
+    },
+    {
+      "id": "16dc",
+      "firstName": "Scarlet",
+      "lastName": "Foster",
+      "fatherName": "Roanna Blake",
+      "gender": "male",
+      "email": "tafecije@mailinator.com",
+      "age": "60",
+      "phoneNumber": "5240000000"
+    }
+  ]
+}
