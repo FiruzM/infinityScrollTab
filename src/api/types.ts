@@ -1,4 +1,4 @@
-export interface Data {
+export interface User {
   id: string;
   firstName: string;
   lastName: string;
@@ -9,7 +9,7 @@ export interface Data {
   phoneNumber: string;
 }
 
-export interface DataProps {
+export interface UserProps {
   firstName: string;
   lastName: string;
   fatherName: string;
